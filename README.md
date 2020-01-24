@@ -31,3 +31,11 @@ After building the decompensation dataset, please save the files in ```decompens
     ```$ python train.py --help```
 
 5. When training is complete, it will output the performance of StageNet on test dataset.
+
+## Citation
+```
+Junyi Gao, Cao Xiao, Yasha Wang, Wen Tang, Lucas M. Glass, Jimeng Sun. 2020. 
+StageNet: Stage-Aware Neural Networks for Health Risk Prediction. 
+In Proceedings of The Web Conference 2020 (WWW ’20), April 20–24, 2020, Taipei, Taiwan. ACM, New York, NY, USA, 11 pages. 
+https://doi.org/10.1145/3366423.3380136
+```
