@@ -2,6 +2,13 @@
 
 The source code for *StageNet: Stage-Aware Neural Networks for Health Risk Prediction*
 
+## Visualization
+Welcome to test the prototype of our visualization tool:
+
+http://47.93.42.104:8888/patient/375?api=Stagenet   
+http://47.93.42.104:8888/patient/598?api=Stagenet (Alive)  
+http://47.93.42.104:8888/patient/664?api=Stagenet    
+
 ## Requirements
 
 * Install python, pytorch. We use Python 3.7.3, Pytorch 1.1.
