@@ -18,7 +18,7 @@ We do not provide the MIMIC-III data itself. You must acquire the data yourself 
 
 After building the decompensation dataset, please save the files in ```decompensation``` directory to ```data/``` directory.
 
-*We provide some data SAMPLES in the folder, so that you can understand the data structure.
+* We provide some data SAMPLES in the folder, so that you can understand the data structure.
 
 ## Fast way to test StageNet with MIMIC-III
 1. We provide the trained weights in ```./saved_weights/StageNet```. You can obtain the reported performance in our paper by simply load the weights to the model.
