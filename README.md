@@ -5,8 +5,8 @@ The source code for *StageNet: Stage-Aware Neural Networks for Health Risk Predi
 ## Visualization
 Welcome to test the prototype of our visualization tool:
  
-http://47.93.42.104/598?api=Stagenet   
-http://47.93.42.104/664?api=Stagenet (Alive)    
+http://47.93.42.104/598   
+http://47.93.42.104/664 (Alive)    
 
 ## Requirements
 
